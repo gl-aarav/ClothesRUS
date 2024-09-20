@@ -1,11 +1,8 @@
 /*
  * Aarav Goyal
- * ClothesRUS.java
+ * Clothes.java
  * 9-18-2024
- * Period: 6
- * 
  * Psuedocode:
- * 1.
  * - Import Scanner
  * - Create a welcome message
  * - Ask to enter cost of shirt and the number of shirts bought
